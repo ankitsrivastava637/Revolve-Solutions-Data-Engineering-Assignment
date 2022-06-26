@@ -1,0 +1,26 @@
+{"customer_id": "C2", "basket": [{"product_id": "P10", "price": 1203}], "date_of_purchase": "2018-12-18 12:24:00"}
+{"customer_id": "C3", "basket": [{"product_id": "P37", "price": 216}, {"product_id": "P38", "price": 1170}], "date_of_purchase": "2018-12-18 08:12:00"}
+{"customer_id": "C6", "basket": [{"product_id": "P60", "price": 47}], "date_of_purchase": "2018-12-18 20:58:00"}
+{"customer_id": "C7", "basket": [{"product_id": "P27", "price": 169}, {"product_id": "P26", "price": 370}], "date_of_purchase": "2018-12-18 23:00:00"}
+{"customer_id": "C10", "basket": [{"product_id": "P36", "price": 1599}, {"product_id": "P39", "price": 348}, {"product_id": "P39", "price": 89}], "date_of_purchase": "2018-12-18 23:05:00"}
+{"customer_id": "C18", "basket": [{"product_id": "P28", "price": 903}, {"product_id": "P28", "price": 631}, {"product_id": "P27", "price": 1766}], "date_of_purchase": "2018-12-18 10:19:00"}
+{"customer_id": "C29", "basket": [{"product_id": "P28", "price": 682}], "date_of_purchase": "2018-12-18 22:24:00"}
+{"customer_id": "C32", "basket": [{"product_id": "P38", "price": 865}, {"product_id": "P35", "price": 1427}], "date_of_purchase": "2018-12-18 17:03:00"}
+{"customer_id": "C33", "basket": [{"product_id": "P35", "price": 259}, {"product_id": "P39", "price": 1572}, {"product_id": "P36", "price": 1745}], "date_of_purchase": "2018-12-18 19:55:00"}
+{"customer_id": "C41", "basket": [{"product_id": "P35", "price": 481}, {"product_id": "P39", "price": 1043}, {"product_id": "P35", "price": 564}], "date_of_purchase": "2018-12-18 20:43:00"}
+{"customer_id": "C44", "basket": [{"product_id": "P37", "price": 1690}, {"product_id": "P36", "price": 1889}, {"product_id": "P40", "price": 748}], "date_of_purchase": "2018-12-18 21:55:00"}
+{"customer_id": "C45", "basket": [{"product_id": "P34", "price": 699}, {"product_id": "P22", "price": 370}], "date_of_purchase": "2018-12-18 19:41:00"}
+{"customer_id": "C47", "basket": [{"product_id": "P43", "price": 20}, {"product_id": "P60", "price": 393}, {"product_id": "P55", "price": 133}], "date_of_purchase": "2018-12-18 11:49:00"}
+{"customer_id": "C48", "basket": [{"product_id": "P08", "price": 1355}, {"product_id": "P11", "price": 1245}, {"product_id": "P09", "price": 1643}], "date_of_purchase": "2018-12-18 09:26:00"}
+{"customer_id": "C63", "basket": [{"product_id": "P39", "price": 1820}, {"product_id": "P35", "price": 1212}], "date_of_purchase": "2018-12-18 21:17:00"}
+{"customer_id": "C64", "basket": [{"product_id": "P26", "price": 874}], "date_of_purchase": "2018-12-18 11:23:00"}
+{"customer_id": "C65", "basket": [{"product_id": "P41", "price": 158}], "date_of_purchase": "2018-12-18 15:26:00"}
+{"customer_id": "C77", "basket": [{"product_id": "P62", "price": 430}, {"product_id": "P64", "price": 102}], "date_of_purchase": "2018-12-18 12:45:00"}
+{"customer_id": "C90", "basket": [{"product_id": "P34", "price": 1925}, {"product_id": "P28", "price": 1586}], "date_of_purchase": "2018-12-18 05:54:00"}
+{"customer_id": "C95", "basket": [{"product_id": "P06", "price": 1675}, {"product_id": "P01", "price": 993}], "date_of_purchase": "2018-12-18 11:23:00"}
+{"customer_id": "C99", "basket": [{"product_id": "P17", "price": 1610}], "date_of_purchase": "2018-12-18 15:35:00"}
+{"customer_id": "C104", "basket": [{"product_id": "P62", "price": 1341}, {"product_id": "P62", "price": 499}, {"product_id": "P64", "price": 1787}], "date_of_purchase": "2018-12-18 11:09:00"}
+{"customer_id": "C105", "basket": [{"product_id": "P35", "price": 1650}, {"product_id": "P36", "price": 1252}], "date_of_purchase": "2018-12-18 19:12:00"}
+{"customer_id": "C117", "basket": [{"product_id": "P30", "price": 679}], "date_of_purchase": "2018-12-18 20:58:00"}
+{"customer_id": "C127", "basket": [{"product_id": "P36", "price": 849}, {"product_id": "P37", "price": 1726}, {"product_id": "P40", "price": 1382}], "date_of_purchase": "2018-12-18 09:58:00"}
+{"customer_id": "C131", "basket": [{"product_id": "P30", "price": 740}, {"product_id": "P28", "price": 1112}, {"product_id": "P23", "price": 1550}], "date_of_purchase": "2018-12-18 07:50:00"}
